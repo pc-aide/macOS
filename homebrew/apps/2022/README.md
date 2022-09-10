@@ -8,3 +8,4 @@
 |1|search||brew search git||
 |2|git ||brew install git||
 |3|visual-studio-code||
+|4|tmux||brew search tmux||
